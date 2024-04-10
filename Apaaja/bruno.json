@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Apaaja",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
